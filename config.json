@@ -1,0 +1,8 @@
+{
+  "database": "dev",
+  "schema": "public",
+  "user": "erika",
+  "host": "postgres-instance.czm7bknpxgdu.us-east-2.rds.amazonaws.com",
+  "port": "5432",
+  "passw": "erika"
+}
